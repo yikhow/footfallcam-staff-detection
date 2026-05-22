@@ -1,0 +1,6 @@
+names:
+- staff_tag
+nc: 1
+path: c:\Users\USER\Downloads\Test\dataset
+train: images/train
+val: images/val

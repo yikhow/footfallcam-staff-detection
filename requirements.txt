@@ -1,0 +1,19 @@
+# Deep Learning Framework (CUDA 12.1 Compatible Base)
+torch==2.5.1
+torchvision==0.20.1
+
+# Object Detection & Computer Vision
+ultralytics==8.4.51
+opencv-python==4.13.0.92
+albumentations==2.0.8
+
+# UI Deployment
+gradio==6.3.0
+
+# Data Analytics & Visualization (Cleaned from local paths)
+pandas>=2.2.0
+matplotlib==3.10.8
+PyYAML==6.0.3
+
+# Annotation Tool
+labelImg==1.8.6
